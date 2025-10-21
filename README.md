@@ -1,8 +1,4 @@
 # helloworld
 just for practice.
 
-
-
-test,test
-
-test.
+Testing whether the network supports GIT.
